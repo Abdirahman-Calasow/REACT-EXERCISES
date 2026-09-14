@@ -1,6 +1,16 @@
-  const App(){
-    return(
+import { useState } from "react";
+import ToggaleButton from "./ToggaleButton";
 
-    )
-  }
-  export default App;
+ function App(){
+
+
+  
+ 
+  return (
+   <ToggaleButton/>
+   
+
+
+  )
+}
+export default App;
