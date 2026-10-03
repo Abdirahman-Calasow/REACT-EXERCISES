@@ -1,6 +1,13 @@
-  const App(){
-    return(
+import SimpleShoping from "./SimpleShoping";
 
-    )
-  }
-  export default App;
+function App() {
+  return (
+    <div>
+      <SimpleShoping />
+    </div>
+  );
+}
+
+
+
+export default App;

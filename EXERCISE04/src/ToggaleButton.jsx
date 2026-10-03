@@ -1,4 +1,4 @@
-import { useState } from "react";
+ import { useState } from "react";
 
 const ToggaleButton = () => {
  const [isturn , setIsturn]=useState(false)
@@ -15,4 +15,6 @@ const ToggaleButton = () => {
     </>
   );
 };
-export default ToggaleButton;
+export default ToggaleButton; 
+
+
